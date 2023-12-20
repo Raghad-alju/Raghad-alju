@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Raghad Aljuhaymi
+- interested in web development
+- currently learning .NET 7
